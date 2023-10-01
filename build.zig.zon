@@ -1,0 +1,10 @@
+.{
+    .name = "hello-world",
+    .version = "0.1.0",
+    .dependencies = .{
+        .vulkan_zig = .{
+            .url = "https://github.com/Snektron/vulkan-zig/archive/1220279b91d5bd17fe583dfb5d6d720ea5b06ee6dc0de30b04320780f89c408587e3.tar.gz",
+            .hash = "1220279b91d5bd17fe583dfb5d6d720ea5b06ee6dc0de30b04320780f89c408587e3",
+        },
+    },
+}
